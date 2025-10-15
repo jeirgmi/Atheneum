@@ -3,7 +3,7 @@ export default function HomePage() {
     <main className="bg-[#eeefec] text-[#1a1a1a] min-h-screen font-sans">
       <section className="text-center py-16 border-b border-[#d0d0cc]">
         <h1 className="text-6xl font-bold mb-3 tracking-wide">𝕬𝖙𝖍𝖊𝖓𝖊𝖚𝖒</h1>
-        <p className="text-lg text-[#8391a1]">Dust's knowledge repository</p>
+        <p className="text-lg text-[#8391a1]">Dust&apos;s knowledge repository</p>
       </section>
 
       <section className="max-w-5xl mx-auto py-12">
